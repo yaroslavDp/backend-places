@@ -1,0 +1,10 @@
+{
+    "env": {
+        "DB_USER": "bayern1520",
+        "DB_PASSWORD": "PWfb9aYJ1WoQ5ZeN",
+        "DB_NAME": "mern",
+        "LOCATIONIQ_API_KEY": "pk.af3817fa24e34890597bd2e01bf0b710",
+        "JWT_KEY":  "supersecret_dont_share"
+    }
+}
+
